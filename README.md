@@ -1,2 +1,2 @@
 # boilerplate
-Html base
+Html base for local programing.
